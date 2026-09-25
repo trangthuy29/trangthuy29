@@ -1,6 +1,6 @@
-# Hi there, I'm Trang 👋
+# Hi there, I'm Trang ✨
 
-🎮 **Data Analyst — Game & Product Analytics**
+📊  **Data Analyst — Game & Product Analytics**
 
 Ex-accountant turned analyst. 3 years reconciling revenue, cost and inventory
 taught me that a report is only worth as much as the rows behind it — so every
